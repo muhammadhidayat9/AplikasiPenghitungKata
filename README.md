@@ -47,6 +47,4 @@ Aplikasi ini menggunakan event handling sebagai berikut:
 
 ## Penulis
 Muhammad Hidayat (2210010354)
-
-## Lisensi
 Tugas 5
